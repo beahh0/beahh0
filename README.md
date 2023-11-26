@@ -6,4 +6,8 @@
 - I'm a Software Engineering student who wants to learn more everyday
 - Currently studying Java, JavaScript and Python
 - And trying to put some project ideas into practice
-- How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-gibaut-a23a9524a/)
+- How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-gibaut-a23a9524a/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:beahhtriz01@gmail.com)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beahh0&layout=compact&theme=vision-friendly-dark)](https://github.com/beahh0/github-readme-stats)  
