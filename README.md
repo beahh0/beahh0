@@ -4,7 +4,7 @@
 </div>
 
 - I'm a Software Engineering student who wants to learn more everyday
-- Currently studying Java, JavaScript and Python
+- Currently studying Java, JavaScript and SpringBoot applications
 - And trying to put some project ideas into practice
 - How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-gibaut-a23a9524a/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:beahhtriz01@gmail.com)
 
